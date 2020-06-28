@@ -19,3 +19,5 @@ Hi, I am going to insert conflicts in my feature branch
     jQuery, Modernizr
     Machine Learning, AWS, Google Cloud
 
+# Additions
+   Adding some important notes on GIT Stash.
