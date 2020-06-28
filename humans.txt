@@ -1,14 +1,13 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-Hi, I am modifying the file before rebase.
+Hi, I am going to insert conflicts in my feature branch
 
 # TEAM
 
     Nasser Abdelghani
     abdelnassermustafa@gmail.com
-    Network and DevOps Engineer Level III
-    IT Organization
+    Network and DevOps Engineer
 
 # THANKS
 
