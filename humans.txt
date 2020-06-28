@@ -1,15 +1,21 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Hi, I am modifying the file before rebase.
+
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nasser Abdelghani
+    abdelnassermustafa@gmail.com
+    Network and DevOps Engineer
 
 # THANKS
 
-    Thanks you teacher!
+    Thanks ti all of my students
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3, Angular
     jQuery, Modernizr
+    Machine Learning, AWS, Google Cloud
+
